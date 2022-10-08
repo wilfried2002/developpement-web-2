@@ -1,0 +1,196 @@
+body
+{
+    font-family: sans-serif;
+    background-color: #efefef;
+}
+a
+{
+  text-decoration: none;
+  color: #fff;
+}
+/*header*/
+header
+{
+    line-height: 30px;
+    background:#5fcf80;
+    
+    font-weight: 700;
+}
+
+.grandbox1
+{
+    background-color: #5fcf80;
+   height:70px;
+}
+.grandbox2
+{
+  
+    border-bottom: 3px;
+    border-style: solid;
+    
+
+}
+.box1
+{
+    float: left;
+
+
+}
+.box2
+{
+    float:right;
+}
+h1
+{
+    margin-left: 230px;
+    margin-top: 19px;
+}
+#menu1
+{
+   padding-right: 20px;
+}
+#menu2
+{
+  margin-left: 50px;
+  
+}
+
+nav
+{
+    margin-right: 100px;
+    padding-left: 100px;
+    padding-right: 180px;
+    margin-top: 18px;
+    
+}
+.titre1
+{
+    margin-left: 230px;
+    font-family: sans-serif;
+
+}
+.phrase1
+{ 
+    margin-left: 230px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.box3
+{
+    margin-left: 100px;
+    background-color: #979696;
+    margin-right: 910px;
+    padding-bottom: 30px;
+    border-top-left-radius:200px ;
+    border-top-right-radius:200px;
+    padding-top: -20%;
+
+   
+}
+
+.image1
+{
+    margin-top: 30px;
+    width:300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+}
+.titre2
+{
+    margin-left: 25px;
+    font-size:16px;
+
+}
+.btn1, .btn2 , .btn3 
+{
+    margin-left: 14px;
+    margin-right: 10px;
+    height: 30px;
+    width:271px;
+    background-color: #5fcf80;
+    
+}
+
+.grandbox3
+{
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 500px;
+    
+    
+}
+                                                     /* deuxieme groupe */
+.box4
+{
+   
+    background-color: #979696;
+   margin-right: 558px;
+    padding-bottom: 20px;
+    margin-bottom: 160px;
+    margin-left: 450px;
+    margin-top: -437px;
+    padding-top: -30%;
+    border-top-left-radius:200px ;
+    border-top-right-radius:200px;
+   
+}
+
+.image2
+{
+    margin-top: 30px;
+    width:300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+}
+.titre3
+{
+    margin-left: 25px;
+    font-size:16px;
+
+}
+/* .btn2
+{
+    margin-left: 14px;
+    margin-right: 10px;
+    height: 30px;
+    width:271px;
+    background-color: #68c907;
+
+} */
+                                                      /* troisieme partir */
+.box5
+{
+    margin-left: 100px;
+    background-color: #979696;
+    margin-left: 845px;
+    padding-bottom: 20px;
+    margin-bottom: 220px;
+    margin-top: -580px;
+    margin-right: 163px;
+    padding-top: -20px;
+    border-top-left-radius:200px ;
+    border-top-right-radius:200px;
+   
+}
+
+.image3
+{
+    margin-top: 30px;
+    width:300px;
+    border-top-left-radius:20px ;
+    border-top-right-radius: 20px;
+}
+.titre4
+{
+    margin-left: 25px;
+    font-size:16px;
+
+}
+/* .btn3
+{
+    margin-left: 14px;
+    margin-right: 10px;
+    height: 30px;
+    width:271px;
+    background-color: #68c907;
+
+} */
